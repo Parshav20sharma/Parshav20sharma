@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parshav Sharma</h1>
 <h3 align="center">A passionate in Ethical Hacking and Cyber Security from India</h3>
 
+- 🌱 I’m currently learning **Blockchain**
+
 - 📫 How to reach me **20sharmaparshav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
