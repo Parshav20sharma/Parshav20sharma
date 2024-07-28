@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parshav Sharma</h1>
-<h3 align="center">A passionate in Ethical Hacking and Cyber Security from India</h3>
+<h3 align="center">A passionate in Cloud and Generative AI from India</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Cloud and Generative AI**
 
 - 📫 How to reach me **20sharmaparshav@gmail.com**
 
