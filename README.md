@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Parshav Sharma</h1>
-<h3 align="center">A passionate in Cloud and Generative AI from India</h3>
+<h3 align="center">Software Engineer Trainee at QuickAppFlow | AI/ML Enthusiast | Generative AI & Workflow Automation Developer</h3>
 
-- 🌱 I’m currently learning **Cloud and Generative AI**
+- 🔭 I'm currently working as a **Software Engineer Trainee at QuickAppFlow**
 
-- 📫 How to reach me **20sharmaparshav@gmail.com**
+- 🌱 I'm currently learning **Generative AI, Retrieval-Augmented Generation (RAG), and Cloud Technologies**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parshavsharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parshavsharma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/parshav-sharma-0b77b4209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/parshav-sharma-0b77b4209" height="30" width="40" /></a>
-</p>
+- 💡 I'm building **AI-powered workflow automation solutions and RAG applications**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💬 Ask me about **Python, AI/ML, Generative AI, LangChain, FastAPI, SQL, REST APIs, Workflow Automation, and RAG**
+
+- 📫 Reach me at **parshav20sharma@gmail.com**
+
+- 📍 Based in **Nagpur, India**
+
+- ⚡ Fun fact: **I enjoy solving real-world problems by combining AI with software engineering.**
